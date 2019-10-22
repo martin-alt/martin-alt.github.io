@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MH</title>
+    <link>/</link>
+    <description>Recent content on MH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Oct 2019 16:26:14 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 07 Oct 2019 16:26:14 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Your Name:   Your email:   Your message:   Send</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 06 Oct 2019 18:23:07 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Michael Hackett is producing multiple feature films through his company Rubicon Media including FLASH GORDON, THE PHANTOM and ONE MINUTE TO MIDNIGHT at Fox/Disney, and LOW-G, TIMEQUAKE and HASSLEMAN at Universal.
+Previously, he produced ADJUSTMENT BUREAU at Universal/MRC in partnership with writer-director George Nolfi, and PAYCHECK at Paramount/Dreamworks, both based on Philip K. Dick short stories.
+Prior to that, Hackett was a production executive at Mario Kassar and Andy Vajna’s C-2 Pictures where he oversaw development and production of TERMINATOR 3, and developed TERMINATOR 4, and was a producer at John Davis’s Davis Entertainment (PREDATOR franchise, GARFIELD, DR DOOLITTLE, ‘The Blacklist,’ ‘Timeless’)</description>
+    </item>
+    
+  </channel>
+</rss>
