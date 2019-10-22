@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://martin-alt.github.io/contact/</loc>
     <lastmod>2019-10-07T16:26:14-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://martin-alt.github.io/</loc>
     <lastmod>2019-10-07T16:26:14-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://martin-alt.github.io/about/</loc>
     <lastmod>2019-10-06T18:23:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://martin-alt.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://martin-alt.github.io/tags/</loc>
   </url>
   
 </urlset>
